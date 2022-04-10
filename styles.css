@@ -59,6 +59,10 @@ button {
     background-color: #f2f2f2;
 }
 
+button.operator{
+    background-color: #fde4cf;
+}
+
 button:hover {
     background-color: #ddbdfc;
 }
@@ -70,3 +74,4 @@ button:hover {
 #clear {
     background-color: #7bf1a8;
 }
+
